@@ -1,0 +1,2 @@
+Rule: Always run tests after agent finishes making code changes
+Description: After the agent applies any requested code changes, automatically run the project's test suite, If the test suite fails, the agent will try to fix the relevant code until all tests pass.
